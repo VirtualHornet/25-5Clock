@@ -1,0 +1,23 @@
+#container{
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    min-height: 100vh;
+    width: 100%;
+    color: #fff;
+   
+}
+.content{
+    padding-top: 10%;
+}
+.time-sets{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 20px;
+}
+#col{
+    text-align: center;
+}
+h3{
+    text-align: left;
+}
